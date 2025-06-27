@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @abhivyakti2
-- 👀 I’m interested in web development and coding
+- 👋 Hi, I’m Abhivyakti!
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate in hackathons and projects
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I'm an avid romance novel lover
+- ⚡ Fun fact: I'm an avid romance-fiction reader
 
 
 <!---
